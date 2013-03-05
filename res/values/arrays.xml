@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <integer-array name="btnKeys">
+        <item>@id/btnDo</item>
+        <item>@id/btnRe</item>
+        <item>@id/btnMi</item>
+        <item>@id/btnFa</item>
+        <item>@id/btnSo</item>
+        <item>@id/btnLa</item>
+        <item>@id/btnTi</item>
+        <item>@id/btnDoH</item>
+    </integer-array>
+    
+    <integer-array name="txtLyrics0">
+        <item>@id/txtLyrics00</item>
+        <item>@id/txtLyrics01</item>
+        <item>@id/txtLyrics02</item>
+        <item>@id/txtLyrics03</item>
+        <item>@id/txtLyrics04</item>
+        <item>@id/txtLyrics05</item>
+        <item>@id/txtLyrics06</item>
+        <item>@id/txtLyrics07</item>
+        <item>@id/txtLyrics08</item>
+        <item>@id/txtLyrics09</item>
+        <item>@id/txtLyrics0A</item>
+        <item>@id/txtLyrics0B</item>
+        <item>@id/txtLyrics0C</item>
+        <item>@id/txtLyrics0D</item>
+        <item>@id/txtLyrics0E</item>
+        <item>@id/txtLyrics0F</item>
+    </integer-array>
+    <integer-array name="txtLyrics1">
+        <item>@id/txtLyrics10</item>
+        <item>@id/txtLyrics11</item>
+        <item>@id/txtLyrics12</item>
+        <item>@id/txtLyrics13</item>
+        <item>@id/txtLyrics14</item>
+        <item>@id/txtLyrics15</item>
+        <item>@id/txtLyrics16</item>
+        <item>@id/txtLyrics17</item>
+        <item>@id/txtLyrics18</item>
+        <item>@id/txtLyrics19</item>
+        <item>@id/txtLyrics1A</item>
+        <item>@id/txtLyrics1B</item>
+        <item>@id/txtLyrics1C</item>
+        <item>@id/txtLyrics1D</item>
+        <item>@id/txtLyrics1E</item>
+        <item>@id/txtLyrics1F</item>
+    </integer-array>
+    
+    <array name="txtHints0">
+        <item>@id/txtHint00</item>
+        <item>@id/txtHint01</item>
+        <item>@id/txtHint02</item>
+        <item>@id/txtHint03</item>
+        <item>@id/txtHint04</item>
+        <item>@id/txtHint05</item>
+        <item>@id/txtHint06</item>
+        <item>@id/txtHint07</item>
+        <item>@id/txtHint08</item>
+        <item>@id/txtHint09</item>
+        <item>@id/txtHint0A</item>
+        <item>@id/txtHint0B</item>
+        <item>@id/txtHint0C</item>
+        <item>@id/txtHint0D</item>
+        <item>@id/txtHint0E</item>
+        <item>@id/txtHint0F</item>
+    </array>
+    <array name="txtHints1">
+        <item>@id/txtHint10</item>
+        <item>@id/txtHint11</item>
+        <item>@id/txtHint12</item>
+        <item>@id/txtHint13</item>
+        <item>@id/txtHint14</item>
+        <item>@id/txtHint15</item>
+        <item>@id/txtHint16</item>
+        <item>@id/txtHint17</item>
+        <item>@id/txtHint18</item>
+        <item>@id/txtHint19</item>
+        <item>@id/txtHint1A</item>
+        <item>@id/txtHint1B</item>
+        <item>@id/txtHint1C</item>
+        <item>@id/txtHint1D</item>
+        <item>@id/txtHint1E</item>
+        <item>@id/txtHint1F</item>
+    </array>
+    
+    <string-array name="song_list">
+        <item>Do Re Mi</item>
+        <item>Row, Row, Row Your Boat</item>
+        <item>Twinkle Twinkle Little Star</item>
+        <item>This Old Man</item>
+        <item>Mary had a little lamb</item>
+    </string-array>
+    
+    <string-array name="song0_lyrics">
+        <item>Doe,</item> <item>_</item> <item>a</item> <item>_</item> <item>deer,</item> <item>_</item>
+        <item>a</item> <item>_</item> <item>fe</item> <item>male</item> <item>_</item> <item>deer</item>
+        <item>+</item>
+        <item>Ray,</item> <item>a</item> <item>_</item> <item>drop</item> <item>_</item> <item>of</item>
+        <item>_</item> <item>gol</item> <item>den</item> <item>_</item> <item>sun</item>
+        <item>+</item>
+        <item>Me,</item> <item>_</item> <item>a</item> <item>_</item> <item>name</item> <item>_</item>
+        <item>I</item> <item>_</item> <item>call</item> <item>_</item> <item>my</item> <item>self</item>
+        <item>+</item>
+        <item>Far,</item> <item>_</item> <item>a</item> <item>_</item> <item>long</item> <item>_</item>
+        <item>long</item> <item>_</item> <item>way</item> <item>_</item> <item>to</item> <item>_</item>
+        <item>Run</item> <item>+</item>
+        <item>Sew,</item> <item>_</item> <item>a</item> <item>_</item> <item>nee</item> <item>dle</item>
+        <item>_</item> <item>pul</item> <item>ling</item> <item>_</item> <item>thread</item>
+        <item>+</item>
+		<item>La,</item> <item>_</item> <item>a</item> <item>_</item> <item>note</item> <item>_</item>
+		<item>to</item> <item>_</item> <item>fol</item> <item>low</item> <item>_</item> <item>Sew</item>
+		<item>+</item>
+		<item>Tea,</item> <item>_</item> <item>a</item> <item>_</item> <item>drink</item> <item>_</item>
+		<item>with</item> <item>_</item> <item>jam</item> <item>_</item> <item>and</item> <item>_</item> <item>bread</item>
+		<item>+</item>
+		<item>That</item> <item>_</item> <item>will</item> <item>_</item> <item>bring</item> <item>_</item>
+		<item>us</item> <item>_</item> <item>back</item> <item>_</item> <item>to</item> <item>_</item> <item>Do</item>
+		<item>+</item>
+		<item>do</item> <item>_</item> <item>re</item> <item>_</item> <item>mi</item> <item>_</item>
+		<item>fa</item> <item>_</item> <item>sol</item> <item>_</item> <item>la</item> <item>_</item> <item>ti</item>
+		<item>_</item> <item>DO</item>
+		<item>+</item>
+		<item>=</item>
+    </string-array>
+    
+    <integer-array name="song0_notes">
+        <item>0</item> <item>1</item> <item>2</item> <item>0</item> <item>2</item> <item>0</item> <item>2</item>
+        <item>1</item> <item>2</item> <item>3</item> <item>3</item> <item>2</item> <item>1</item> <item>3</item>
+		<item>2</item> <item>3</item> <item>4</item> <item>2</item> <item>4</item> <item>2</item> <item>4</item>
+		<item>3</item> <item>4</item> <item>5</item> <item>5</item> <item>4</item> <item>3</item> <item>5</item>
+		<item>4</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item>
+		<item>5</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item>
+		<item>6</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item>
+		<item>7</item> <item>6</item> <item>5</item> <item>3</item> <item>6</item> <item>4</item> <item>7</item>
+		<item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item>
+    </integer-array>
+		
+    <string-array name="song1_lyrics">
+		<item>Row,</item> <item>_</item> <item>row,</item> <item>_</item> <item>row</item> <item>_</item> <item>your</item> <item>_</item> <item>boat</item> 
+		<item>+</item>
+		<item>Gent</item> <item>ly</item> <item>_</item> <item>down</item> <item>_</item> <item>the</item> <item>_</item> <item>stream</item>
+		<item>+</item>
+		<item>Mer</item> <item>ri</item> <item>ly,</item> <item>_</item> <item>mer</item> <item>ri</item> <item>ly,</item> <item>_</item>
+		<item>mer</item> <item>ri</item> <item>ly,</item> <item>_</item> <item>mer</item> <item>ri</item> <item>ly,</item>
+		<item>+</item>
+		<item>Life</item> <item>_</item> <item>is</item> <item>_</item> <item>but</item> <item>_</item> <item>a</item> <item>_</item> <item>dream</item>
+		<item>+</item>
+		<item>=</item>
+    </string-array>
+    
+    <integer-array name="song1_notes">
+        <item>0</item> <item>0</item> <item>0</item> <item>1</item> <item>2</item>
+        <item>2</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item>
+		<item>7</item> <item>7</item> <item>7</item> <item>4</item> <item>4</item> <item>4</item>
+		<item>2</item> <item>2</item> <item>2</item> <item>0</item> <item>0</item> <item>0</item>
+        <item>4</item> <item>3</item> <item>2</item> <item>1</item> <item>0</item>
+    </integer-array>
+
+    <string-array name="song2_lyrics">
+		<item>Twin</item> <item>kle,</item> <item>_</item> <item>twin</item> <item>kle,</item>
+		<item>_</item> <item>lit</item> <item>tle</item> <item>_</item> <item>star,</item> 
+		<item>+</item>
+		<item>How</item> <item>_</item> <item>I</item> <item>_</item> <item>won</item> <item>der</item>
+		<item>_</item> <item>what</item> <item>_</item> <item>you</item> <item>_</item> <item>are.</item>
+		<item>+</item>
+		<item>Up</item> <item>_</item> <item>a</item> <item>bove</item> <item>_</item> <item>the</item>
+		<item>_</item> <item>world</item> <item>_</item> <item>so</item> <item>_</item> <item>high,</item>
+		<item>+</item>
+		<item>Like</item> <item>_</item> <item>a</item> <item>_</item> <item>di</item> <item>a</item> <item>mond</item>
+		<item>_</item> <item>in</item> <item>_</item> <item>the</item> <item>_</item> <item>sky.</item>
+		<item>+</item>
+		<item>Twin</item> <item>kle,</item> <item>_</item> <item>twin</item> <item>kle,</item>
+		 <item>_</item> <item>lit</item> <item>tle</item> <item>_</item> <item>star,</item>
+		<item>+</item>
+		<item>How</item> <item>_</item> <item>I</item> <item>_</item> <item>won</item> <item>der</item>
+		 <item>_</item> <item>what</item> <item>_</item> <item>you</item> <item>_</item> <item>are!</item>
+		<item>+</item>
+		<item>=</item>
+    </string-array>
+    
+    <integer-array name="song2_notes">
+		<item>0</item> <item>0</item> <item>4</item> <item>4</item> <item>5</item> <item>5</item> <item>4</item>
+		<item>3</item> <item>3</item> <item>2</item> <item>2</item> <item>1</item> <item>1</item> <item>0</item>
+		<item>4</item> <item>4</item> <item>3</item> <item>3</item> <item>2</item> <item>2</item> <item>1</item>
+		<item>4</item> <item>4</item> <item>3</item> <item>3</item> <item>3</item> <item>2</item> <item>2</item> <item>1</item>
+		<item>0</item> <item>0</item> <item>4</item> <item>4</item> <item>5</item> <item>5</item> <item>4</item>
+		<item>3</item> <item>3</item> <item>2</item> <item>2</item> <item>1</item> <item>1</item> <item>0</item>
+    </integer-array>
+		
+    <string-array name="song3_lyrics">
+		<item>This</item> <item>_</item> <item>old</item> <item>_</item> <item>man,</item> <item>_</item>
+		<item>he</item> <item>_</item> <item>played</item> <item>_</item> <item>one,</item>
+		 <item>+</item>
+		<item>He</item> <item>_</item> <item>played</item> <item>_</item> <item>nick-</item> <item>nack</item> <item>_</item> <item>on</item> <item>_</item> <item>my</item> <item>_</item> <item>thumb;</item>
+		 <item>+</item>
+		<item>With</item> <item>_</item> <item>a</item> <item>_</item> <item>nick</item> <item>-nack</item>
+		 <item>_</item> <item>pad</item> <item>dy</item> <item>_</item> <item>whack,</item>
+		 <item>+</item>
+		<item>Give</item> <item>_</item> <item>a</item> <item>_</item> <item>dog</item> <item>_</item>
+		 <item>a</item> <item>_</item> <item>bone,</item>
+		 <item>+</item>
+		<item>This</item> <item>_</item> <item>old</item> <item>_</item> <item>man</item> <item>_</item> <item>came</item> <item>_</item> <item>rolling</item> <item>_</item> <item>home.</item>
+		 <item>+</item>
+		 <item>=</item>
+    </string-array>
+    
+    <integer-array name="song3_notes">
+		<item>4</item> <item>2</item> <item>4</item> <item>4</item> <item>2</item> <item>4</item> 
+		<item>5</item> <item>4</item> <item>3</item> <item>2</item> <item>1</item> <item>2</item> <item>3</item> 
+		<item>2</item> <item>3</item> <item>4</item> <item>0</item> <item>0</item> <item>0</item> <item>0</item> 
+		<item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> 
+		<item>4</item> <item>1</item> <item>1</item> <item>3</item> <item>2</item> <item>1</item> <item>0</item> 
+    </integer-array>
+		        
+    <string-array name="song4_lyrics">
+		<item>Ma</item> <item>ry</item> <item>_</item> <item>had</item> <item>_</item> <item>a</item>
+		 <item>_</item> <item>lit</item> <item>tle</item> <item>_</item> <item>lamb,</item>
+		 <item>+</item>
+		<item>lit</item> <item>tle</item> <item>_</item> <item>lamb,</item> <item>_</item>
+		 <item>lit</item> <item>tle</item> <item>_</item> <item>lamb,</item>
+		 <item>+</item>
+		<item>Ma</item> <item>ry</item> <item>_</item> <item>had</item> <item>_</item> <item>a</item>
+		 <item>_</item> <item>lit</item> <item>tle</item> <item>_</item> <item>lamb,</item>
+		 <item>+</item>
+		<item>its</item> <item>_</item> <item>fleece</item> <item>_</item> <item>was</item> <item>_</item>
+		 <item>white</item> <item>_</item> <item>as</item> <item>_</item> <item>snow.</item>
+		 <item>+</item>
+		 <item>=</item>
+    </string-array>
+
+    <integer-array name="song4_notes">
+		<item>2</item> <item>1</item> <item>0</item> <item>1</item> <item>2</item> <item>2</item> <item>2</item>
+		<item>1</item> <item>1</item> <item>1</item> <item>2</item> <item>4</item> <item>4</item>
+		<item>2</item> <item>1</item> <item>0</item> <item>1</item> <item>2</item> <item>2</item> <item>2</item>
+		<item>1</item> <item>1</item> <item>1</item> <item>2</item> <item>1</item> <item>0</item>
+    </integer-array>
+    
+</resources>

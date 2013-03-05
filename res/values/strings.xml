@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Kids Piano</string>
+    
+    <string name="help">
+        <b>Step 1:</b> Select a song that you like.\n
+        \n
+        <b>Step 2:</b> Press the correct piano key that is shaded yellow.\n
+        \n
+        <b>Step 3:</b> After the song, you may choose another song to play.\n
+        \n
+        Keep playing and have fun in learning to play the piano. :)
+    </string>
+    
+	<string name="credits">
+        This is program is created as a partial requirement in the course Advanced Java.\n
+        \n
+	    <b>THE CREW:</b> \n
+	    <b>Aquino, Bernadette Kristine C.</b> \n
+	    <b>Jandoc, Kenneth B.</b> \n
+	    <b>Serrano, Joseph Christian R.</b> \n
+	    <b>Tamayosa, Jerome M.</b> \n
+	    \n
+        <b>Professor:</b> Engr. Gino Tria\n
+        \n
+        <b>BS Computer Engineering V - 5</b> \n
+	</string>
+    
+    <string name="eula_title">License Agreement</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Do not Accept</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="start_playing">Start Playing</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="about">About Kids Piano</string>
+    <string name="exit">Exit</string>
+    <string name="select_a_song">Select a song: </string>
+    <string name="ht">Ht</string>
+    <string name="doh">do</string>
+    <string name="re">re</string>
+    <string name="mi">mi</string>
+    <string name="fa">fa</string>
+    <string name="sol">sol</string>
+    <string name="la">la</string>
+    <string name="ti">ti</string>
+    <string name="DO">DO</string>
+    
+</resources>
